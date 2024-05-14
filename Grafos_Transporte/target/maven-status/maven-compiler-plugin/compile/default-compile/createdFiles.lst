@@ -1,0 +1,7 @@
+model\Model.class
+model\Grafo.class
+controller\Controller.class
+model\Edge.class
+model\Nodo.class
+view\View.class
+main\Main.class

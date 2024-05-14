@@ -1,0 +1,8 @@
+model\PaginaWeb.class
+model\HistorialNavegacion.class
+model\NodoPagina.class
+view\VistaHistorial.class
+controller\ControladorHistorial.class
+controller\ControladorHistorial$1.class
+controller\ControladorHistorial$2.class
+view\VistaHistorial$1.class
